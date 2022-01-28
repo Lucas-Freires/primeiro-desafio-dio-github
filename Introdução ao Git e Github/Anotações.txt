@@ -1,0 +1,4 @@
+-usamos comandos básicos em terminal
+-criamos um repositório no Git e 'empurrado' ao github
+-trabalhamos com alguns comandos git, como git innit, git add...
+-aprendemos como clonar o repositório github para trabalhar localmente
